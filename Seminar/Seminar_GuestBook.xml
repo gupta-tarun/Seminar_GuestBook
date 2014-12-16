@@ -1,0 +1,8 @@
+<config>
+	<modeules>
+		<Seminar_GuestBook>
+			<codePool>local</codePool>
+			<active>true</active>
+		</Seminar_GuestBook>
+	</modeules>
+</config>

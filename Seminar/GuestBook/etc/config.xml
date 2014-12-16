@@ -1,0 +1,18 @@
+<config>
+	<phpunit>
+		<suite>
+			<modules>
+				<Seminar_GuestBook/>
+			</modules>
+		</suite>
+	</phpunit>
+	<global>
+		<resources>
+			<seminar_guestbook_setup>
+				<setup>
+					<module>Seminar_GuestBook</module>
+				</setup>
+			</seminar_guestbook_setup>	
+		</resources>
+	</global>
+</config>
